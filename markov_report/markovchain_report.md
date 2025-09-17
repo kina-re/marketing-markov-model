@@ -103,7 +103,7 @@ Each value shows the average number of visits before conversion or drop-off.
 ---
 
 ## Monte Carlo Simulation Insights
-![Figure 5b: Removal Effects – Simulated Chart](simulated_removal_effects.png)  
+![Figure 5b: Removal Effects – Simulated Chart](Simulated_removal_effects.png)  
 *Figure 5b: Removal Effects – Simulated Chart*
 
 - Referral is the dominating channel. Invest more in partnerships, influencers, or referral incentives.
